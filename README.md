@@ -35,58 +35,69 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A Christen exhortacion vnto customable swearers What a ryght [and] lawfull othe is: whan, and before
+
+1. Unto the reader.
+
 #####Body#####
 
-1. ¶Grace afore meate.
+1. A Christen exhortacion
 
-1. ¶Grace after meate.
+1. The maner of sayenge grace
+after the doctryne of holy
+scripture.
 
-1. ¶Another grace.
+    _ ¶Grace afore meate.
+
+    _ ¶Grace after meate.
+
+    _ ¶Another grace.
 ¶Grace afore meate.
 
-1. ¶Grace after meate.
+    _ ¶Grace after meate.
 
-1. ¶Another grace.
+    _ ¶Another grace.
 ¶Grace afore meate.
 
-1. ¶Grace after meate.
+    _ ¶Grace after meate.
 
-1. ¶Another grace.
+    _ ¶Another grace.
 ¶Grace afore meate.
 
-1. ¶Grace after meate.
+    _ ¶Grace after meate.
 
-1. ¶Another grace.
+    _ ¶Another grace.
 ¶Grace afore meate.
 
-1. ¶Grace after meate.
+    _ ¶Grace after meate.
 
-1. ¶Another grace.
+    _ ¶Another grace.
 ¶Grace afore meate.
 
-1. ¶Grace after meate.
+    _ ¶Grace after meate.
 
-1. ¶Another grace.
+    _ ¶Another grace.
 ¶Grace afore meate.
 
-1. ¶Grace after meate.
+    _ ¶Grace after meate.
 
-1. ¶To Kynges and Princes.
+1. A shorte instruction to
+the worlde.
 
-1. ¶To Iudges.
+    _ ¶To Kynges and Princes.
 
-1. ¶To Councelours.
+    _ ¶To Iudges.
 
-1. ¶To Chamberlaynes.
+    _ ¶To Councelours.
 
-1. ¶To Stewardes.
+    _ ¶To Chamberlaynes.
 
-1. ¶To Treasures.
+    _ ¶To Stewardes.
 
-1. ¶To Controllers.
+    _ ¶To Treasures.
 
-1. ¶To Prestes.
+    _ ¶To Controllers.
+
+    _ ¶To Prestes.
 
 **Types of content**
 
